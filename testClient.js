@@ -1,5 +1,5 @@
 const sendBtn = document.querySelector('button[id="send"]')
-const getMsgBtn = document.querySelector('button[id="print"]')
+// const getMsgBtn = document.querySelector('button[id="print"]')
 const chatBox = document.querySelector('#chatbox')
 const ids = new Set()
 
