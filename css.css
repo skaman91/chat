@@ -1,0 +1,68 @@
+#chatboxz {
+    text-align:left;
+    margin:0 auto;
+    margin-bottom:25px;
+    padding:10px;
+    background:#fff;
+    height:270px;
+    width:430px;
+    border:0px solid #ACD8F0;
+    overflow:auto;
+}
+body {
+    font:12px arial;
+    color: #222;
+    text-align:center;
+    padding:35px;
+}
+
+form, p, span {
+    margin:0;
+    padding:0;
+}
+#text33 {
+    height: 50px;
+    padding:80px;
+    border:1px solid #E9967A;
+    text-align: center;
+    margin-bottom:10px;
+    background:#F5F5F5;
+}
+#print {
+    margin-left: 150px;
+    visibility: hidden;
+
+}
+#wrapper {
+    text-align: left;
+    margin: 0 auto 1px;
+    padding:10px;
+    background:#D3D3D3;
+    height:300px;
+    width:230px;
+    border:2px solid #CD853F;
+    overflow:auto;
+    vertical-align: bottom;
+    background-image: url(img/123.jpeg);
+    font-weight: bold;
+    font-size: medium;
+    color: #EBF4FB;
+    line-height: 1.5;
+    word-wrap: break-word;
+
+
+}
+#sentBottom {
+    height: 45px;
+    width:235px;
+    padding:10px;
+
+    text-align: center;
+    background:#F5F5F5;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+#send {
+    margin: 5px;
+}
